@@ -1,7 +1,22 @@
-### Hi there 👋
+# Hi, I'm Mike 👋
+I'm a software developer 
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/bpmike254) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mike-otieno-b448a3200/) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/bpmike)
+
+🌱 I’m actively learning TDD.
+
+🤔 I’m looking for help with IOT
+
+🔓 Bug hunter
+### Portfolio
+- [mikefolio](https://mikefolio.herokuapp.com/)
+### Work
+
+- [Mi-Gram](https://mi-gram.herokuapp.com/)
+
 
 <!--
-**bp-mike/bp-mike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**stuartelimu/stuartelimu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +29,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Tools I Use
+- VS Code
+
+### :wrench: Technologies
+![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Bitbucket](https://img.icons8.com/color/30/bitbucket.png)![Gitlab](https://img.icons8.com/color/30/gitlab.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)
+
+![user's GitHub stats](https://github-readme-stats.vercel.app/api?username=bp-mike;show_icons=true&amp;theme=radical)
