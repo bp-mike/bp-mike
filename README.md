@@ -2,7 +2,7 @@
 I'm a software developer 
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/bpmike254) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mike-otieno-b448a3200/) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/bpmike)
-<a href="https://dribbble.com/https://dribbble.com/bpmike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/bpmike" height="30" width="40" /></a>
+[![Dribble](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg)](https://dribbble.com/https://dribbble.com/bpmike)
 
 🌱 I’m actively learning TDD.
 
