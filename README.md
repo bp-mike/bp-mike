@@ -43,4 +43,8 @@ Here are some ideas to get you started:
 
 ![user's GitHub stats](https://github-readme-stats.vercel.app/api?username=bp-mike&amp;show_icons=true&amp;theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bp-mike&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bp-mike&layout=compact&theme=material-palenight" />
+</a>
 
