@@ -5,9 +5,9 @@ I'm a software developer
 
 🌱 I’m actively learning TDD.
 
-🤔 I’m looking for help with IOT
+<!-- 🤔 I’m looking for help with IOT -->
 
-🔓 Bug hunter
+<!-- 🔓 Bug hunter -->
 ### Portfolio
 - [mikefolio](https://mikefolio.herokuapp.com/)
 ### Work
@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 - VS Code
 
 ### :wrench: Technologies
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Bitbucket](https://img.icons8.com/color/30/bitbucket.png)![Gitlab](https://img.icons8.com/color/30/gitlab.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)
+![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Windows](https://img.icons8.com/color/30/windows-10.png)!
 
-![user's GitHub stats](https://github-readme-stats.vercel.app/api?username=bp-mike;show_icons=true&amp;theme=radical)
+![user's GitHub stats](https://github-readme-stats.vercel.app/api?username=bp-mike&amp;show_icons=true&amp;theme=radical)
