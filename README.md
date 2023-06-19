@@ -4,7 +4,10 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/bpmike254) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mike-otieno-b448a3200/) 
 
+💬 You can find me at bpmikeomo@gmail.com
+
 🌱 I’m currently learning TDD, React and creating apis with node.js.
+
 
 ### Work
 - [front-end mentor challenges](https://fluffy-yeot-35e379.netlify.app/product-preview-card-component/)
