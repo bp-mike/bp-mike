@@ -1,25 +1,37 @@
 # Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, I'm Mike 👋
 <!-- <h1 align="center">Hi 👋, I'm Mike</h1> -->
-<h3 align="center">I’m a passionate developer, i work hard, i write clean code and i genuinely love to learn new code practices</h3>
+<h4>I’m a passionate developer, i work hard, i write clean code and i genuinely love to learn new code practices</h4>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bp-mike" alt="bp-mike" /></a> </p>
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/bpmike254) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mike-otieno-b448a3200/) 
 
-- 🌱 I’m currently learning **React.js**
+🌱 I’m currently learning TDD, React and creating apis with node.js.
 
-- 👨‍💻 All of my projects are available at [https://spontaneous-cannoli-9828b9.netlify.app/](https://spontaneous-cannoli-9828b9.netlify.app/)
+### Work
+- [front-end mentor challenges](https://fluffy-yeot-35e379.netlify.app/product-preview-card-component/)
+- You can find the rest of my work [here](https://spontaneous-cannoli-9828b9.netlify.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@bpmikeomo](https://medium.com/@bpmikeomo)
 
-- 📫 How to reach me **bpmikeomo@gmail.com**
+### Articles
+1. [Discovering My Passion: My Journey into Software Development 🤔](https://medium.com/@bpmikeomo/discovering-my-passion-my-journey-into-software-development-7ace81bb9ada)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/bp-mike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/bp-mike" height="30" width="40" /></a>
-<a href="https://twitter.com/bpmike254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bpmike254" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mike-otieno-b448a3200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mike-otieno-b448a3200/" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/bpmike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/bpmike" height="30" width="40" /></a>
-<a href="https://medium.com/@bpmikeomo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bpmikeomo" height="30" width="40" /></a>
-</p>
+You can find the rest of my articles [here](https://medium.com/@bpmikeomo)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<!--
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+### :wrench: Technologies
+![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Bitbucket](https://img.icons8.com/color/30/bitbucket.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Windows](https://img.icons8.com/color/30/windows-10.png)
+
+![user's GitHub stats](https://github-readme-stats.vercel.app/api?username=bp-mike&amp;show_icons=true&amp;theme=radical)
