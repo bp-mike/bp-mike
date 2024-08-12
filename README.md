@@ -6,18 +6,18 @@
 
 💬 You can find me at bpmikeomo@gmail.com
 
-🌱 I’m currently learning TDD, React and creating apis with node.js.
+<!---🌱 I’m currently learning TDD, React and creating apis with node.js. 
 
 
 ### Work
 - [front-end mentor challenges](https://fluffy-yeot-35e379.netlify.app/product-preview-card-component/)
-- You can find the rest of my work [here](https://spontaneous-cannoli-9828b9.netlify.app/)
+- You can find the rest of my work [here](https://spontaneous-cannoli-9828b9.netlify.app/)-->
 
 
-### Articles
-1. [Discovering My Passion: My Journey into Software Development 🤔](https://medium.com/@bpmikeomo/discovering-my-passion-my-journey-into-software-development-7ace81bb9ada)
+<!--- ### Articles
+1. [Discovering My Passion: My Journey into Software Development 🤔](https://medium.com/@bpmikeomo/discovering-my-passion-my-journey-into-software-development-7ace81bb9ada)-->
 
-You can find the rest of my articles [here](https://medium.com/@bpmikeomo)
+<!--You can find the rest of my articles [here](https://medium.com/@bpmikeomo) -->
 
 <!--
 
